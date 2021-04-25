@@ -228,7 +228,7 @@
 		471460332633111600FFEB92 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
-				471460342633112000FFEB92 /* PropertyWrapper */,
+				471460342633112000FFEB92 /* Binding */,
 				47145FF72632E6CF00FFEB92 /* Extension */,
 				47146047263316C600FFEB92 /* ImageBoardTag.swift */,
 				47AB147D2635744100E86A2E /* Translation.swift */,
@@ -236,12 +236,12 @@
 			path = Utils;
 			sourceTree = "<group>";
 		};
-		471460342633112000FFEB92 /* PropertyWrapper */ = {
+		471460342633112000FFEB92 /* Binding */ = {
 			isa = PBXGroup;
 			children = (
 				471460352633114C00FFEB92 /* DynamicValue.swift */,
 			);
-			path = PropertyWrapper;
+			path = Binding;
 			sourceTree = "<group>";
 		};
 		4714604D263317D400FFEB92 /* View */ = {
